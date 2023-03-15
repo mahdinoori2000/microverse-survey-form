@@ -44,3 +44,23 @@ body{
 .check{
   margin-top: 10px;
 }
+#text{
+  width: 450px;
+  margin-top: 5px;
+  border-radius: 5px;
+  padding: 5px;
+}
+#submit{
+  display: block;
+  width: 450px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #0ca678;
+  margin-top: 10px;
+}
+#submit:hover{
+  cursor: pointer;
+  background-color: #087f5b;
+}
