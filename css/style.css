@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: sans-serif;
+  color: #fff;
+}
+
+.container{
+  width: 600px;
+  margin: 100px auto;
+  background-color: #7950f2;
+  padding: 50px;
+}
+#title{
+  text-align: center;
+
+  margin-bottom: 20px;
+}
+#description{
+
+}
