@@ -24,7 +24,8 @@ body{
 }
 #name,
 #email,
-#number{
+#number,
+#dropdown{
   margin-bottom: 10px;
   width: 450px;
   height: 25px;
@@ -36,4 +37,10 @@ body{
 #email::placeholder,
 #number::placeholder{
   padding-left: 5px;
+}
+.radio-btn{
+  margin: 10px 25px 20px 0;
+}
+.check{
+  margin-top: 10px;
 }
